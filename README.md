@@ -1,16 +1,14 @@
- Movie Ticket Booking System (Java Console App)
+## Movie Ticket Booking System (Java Console App)
 -> Overview
 
 This is a console-based movie ticket booking application built using Java.
+
 It allows users to:
 
-Select a location
-
-Choose a theater
-
-Pick a movie
-
-Book available seats
+-> Select a location
+-> Choose a theater
+-> Pick a movie
+-> Book available seats
 
 The program uses Object-Oriented Programming (OOP) principles and Java Collections Framework for efficient data handling.
 It simulates a simplified version of an online movie ticket booking system like BookMyShow.
@@ -32,15 +30,11 @@ Guntur	Venkateswara Cineplex, Navabharath Theatre
 Nellore	Rama Cinemas, S2 Cinemas
  Telugu Movies Included
 
-Game Changer
-
-Devara: Part 1
-
-Pushpa 2: The Rule
-
-Hari Hara Veera Mallu
-
-Lucky Bhaskar
+-> Game Changer
+-> Devara: Part 1
+-> Pushpa 2: The Rule
+-> Hari Hara Veera Mallu
+-> Lucky Bhaskar
 
 **Concepts Used
 Concept Type	Description
@@ -56,22 +50,20 @@ Methods	Reusable functions (createSeats(), bookSeat(), displaySeats())
 
 Make sure you have:
 
-Java JDK 8+ installed
-
-A terminal or command prompt
+-> Java JDK 8+ installed
+-> A terminal or command prompt
 
  Steps:-
 
-Open the terminal in your project directory
+-> Open the terminal in your project directory
 
-Compile the Java file:
+* Compile the Java file:
 
-javac MovieBookingApp.java
+-> javac MovieBookingApp.java
 
+* Run the program:
 
-Run the program:
-
-java MovieBookingApp
+-> java MovieBookingApp
 
 ** Sample Output
 Welcome to the Movie Ticket Booking System
@@ -120,17 +112,13 @@ Enjoy your movie!
 ├── -> README.md                 # Documentation (this file)
 └── -> Seat, Movie, Theater Classes
 
- Future Enhancements
+ ** Future Enhancements
 
-Add multiple showtimes
-
-Include ticket pricing and total amount
-
-Save bookings to a file or database
-
-Add cancellation feature
-
-GUI version using JavaFX or Swing
+-> Add multiple showtimes
+-> Include ticket pricing and total amount
+-> Save bookings to a file or database
+-> Add cancellation feature
+-> GUI version using JavaFX or Swing
 
 ** Author
 
