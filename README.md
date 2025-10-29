@@ -13,7 +13,7 @@ This is a console-based movie ticket booking application built using Java.
 The program uses Object-Oriented Programming (OOP) principles and Java Collections Framework for efficient data handling.
 It simulates a simplified version of an online movie ticket booking system like BookMyShow.
 
- Features
+ ## Features
 
  Select Location (Kandukur, Ongole, Guntur, Nellore)
 -> View Available Theaters in Each Location
@@ -22,12 +22,13 @@ It simulates a simplified version of an online movie ticket booking system like 
 -> Prevents Double Booking
 ->Displays Confirmed Booking Details
 
-** Locations & Theaters
+## Locations & Theaters
 Location	Theaters
-Kandukur	Sri Koteswara Theatre, Yuvaraj Theatre
-Ongole	Gopi Theatre 4K Dolby, Krishna Theatre
-Guntur	Venkateswara Cineplex, Navabharath Theatre
-Nellore	Rama Cinemas, S2 Cinemas
+-> Kandukur	Sri Koteswara Theatre, Yuvaraj Theatre
+-> Ongole	Gopi Theatre 4K Dolby, Krishna Theatre
+-> Guntur	Venkateswara Cineplex, Navabharath Theatre
+-> Nellore	Rama Cinemas, S2 Cinemas
+ 
  Telugu Movies Included
 
 -> Game Changer
@@ -36,18 +37,17 @@ Nellore	Rama Cinemas, S2 Cinemas
 -> Hari Hara Veera Mallu
 -> Lucky Bhaskar
 
-** Concepts Used
+## Concepts Used
 Concept Type	Description
-OOP Concepts	Classes, Objects, Constructors, Encapsulation, Composition
-Collections	ArrayList, HashMap, List, Arrays.asList()
-Control Flow	if-else, for, while, break, continue
-Input/Output	Scanner for user input
-2D Arrays	Seat layout (5 rows × 5 columns)
-Methods	Reusable functions (createSeats(), bookSeat(), displaySeats())
+-> OOP Concepts	Classes, Objects, Constructors, Encapsulation, Composition
+-> Collections	ArrayList, HashMap, List, Arrays.asList()
+-> Control Flow	if-else, for, while, break, continue
+-> Input/Output	Scanner for user input
+-> 2D Arrays	Seat layout (5 rows × 5 columns)
+-> Methods	Reusable functions (createSeats(), bookSeat(), displaySeats())
 
-** How to Run the Program
+## How to Run the Program
 * Prerequisites
-
 Make sure you have:
 
 -> Java JDK 8+ installed
@@ -105,14 +105,14 @@ Theater: Sri Koteswara Theatre (Kandukur)
 Seats: [A1, A2]
 Enjoy your movie!
 
-** Project Structure
+## Project Structure
 * MovieTicketBookingSystem
 │
 ├── -> MovieBookingApp.java      # Main Program
 ├── -> README.md                 # Documentation (this file)
 └── -> Seat, Movie, Theater Classes
 
- ** Future Enhancements
+ ## Future Enhancements
 
 -> Add multiple showtimes
 -> Include ticket pricing and total amount
