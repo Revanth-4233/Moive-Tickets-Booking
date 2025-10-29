@@ -3,7 +3,7 @@
 
 This is a console-based movie ticket booking application built using Java.
 
-It allows users to:
+* It allows users to:
 
 -> Select a location
 -> Choose a theater
@@ -36,7 +36,7 @@ Nellore	Rama Cinemas, S2 Cinemas
 -> Hari Hara Veera Mallu
 -> Lucky Bhaskar
 
-**Concepts Used
+** Concepts Used
 Concept Type	Description
 OOP Concepts	Classes, Objects, Constructors, Encapsulation, Composition
 Collections	ArrayList, HashMap, List, Arrays.asList()
@@ -45,7 +45,7 @@ Input/Output	Scanner for user input
 2D Arrays	Seat layout (5 rows × 5 columns)
 Methods	Reusable functions (createSeats(), bookSeat(), displaySeats())
 
-**How to Run the Program
+** How to Run the Program
 * Prerequisites
 
 Make sure you have:
